@@ -1,4 +1,4 @@
-# python-api-challenge
+# python-weather-api-calls
 
 Hello! This is my submission for the Module 6: Python API challenge with Rice University's Data Analytics and Visualization bootcamp. In this assignment, we used API keys from Open Weather Map and GeoApify to analyze data from certain cities and construct informative maps and graphs. 
 
