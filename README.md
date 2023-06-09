@@ -8,6 +8,6 @@ In part two, using the GeoApify key and the dataframe created in part one, we po
 
 This code was written in VS Code Jupyter Notebooks. For best results, the code should also be run in VS Code or in a Jupyter Notebooks browser.
 
-The work contained herein is mine and mine alone, although I did receive help from the excellent tutors and instructors that Rice University employs for this course.
+The work contained herein is mine and mine alone.
 
 Thanks!
